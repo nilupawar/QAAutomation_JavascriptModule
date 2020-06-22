@@ -1,3 +1,4 @@
+// This is not a example of module but I have added here while practicing other thing
 console.log('Okay Okay')
 console.log('Okay Okay')
 setTimeout(() => {
